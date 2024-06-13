@@ -34,17 +34,29 @@ CONTAINER
 COLOR TAGS
 */
 .color-html {
-  color: red;
+  color: white;
+  background-color: red;
+  padding: 2px 4px;
+  border-radius: 5px;
 }
 
 .color-css {
-  color: blue;
+  color: white;
+  background-color: blue;
+  padding: 2px 4px;
+  border-radius: 5px;
 }
 
 .color-js {
-  color: yellow;
+  color: white;
+  background-color: yellow;
+  padding: 2px 4px;
+  border-radius: 5px;
 }
 
 .color-php {
-  color: purple;
+  color: white;
+  background-color: purple;
+  padding: 2px 4px;
+  border-radius: 5px;
 }
