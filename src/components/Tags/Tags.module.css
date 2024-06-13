@@ -1,0 +1,10 @@
+.containerTags {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  align-items: center;
+  gap: 8px;
+  text-transform: uppercase;
+  font-weight: 600;
+}

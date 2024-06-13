@@ -10,3 +10,41 @@ RESET
 body {
   background-color: #e0e0e0;
 }
+
+/*
+CONTAINER
+*/
+.container {
+  width: 600px;
+  background-color: white;
+  margin: 40px auto;
+  border-radius: 10px;
+  margin-bottom: 60px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  border: 1px solid #0b1a29;
+}
+
+.container:not(.published) {
+  display: none;
+}
+
+/*
+COLOR TAGS
+*/
+.color-html {
+  color: red;
+}
+
+.color-css {
+  color: blue;
+}
+
+.color-js {
+  color: yellow;
+}
+
+.color-php {
+  color: purple;
+}
