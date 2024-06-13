@@ -1,0 +1,12 @@
+.header {
+  height: 80px;
+  width: 100%;
+  background-color: #0b1a29;
+}
+
+.titolo {
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+  text-transform: uppercase;
+}
